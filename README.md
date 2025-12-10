@@ -70,32 +70,22 @@ const benjamin = {
 
 </div>
 
----
+<!-- ---
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiisar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiisar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wiisar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=wiisar&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+</div> -->
 
 ---
 
