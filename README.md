@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Salut+%F0%9F%91%8B+je+suis+Benjamin;D%C3%A9veloppeur+Full+Stack+Passionn%C3%A9;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Salut+%F0%9F%91%8B+je+suis+Benjamin;Ing%C3%A9nieur+Cloud+DevOps+%40+Orange;%C3%89l%C3%A8ve+Ing%C3%A9nieur+%40+ENSEIRB-MATMECA;Passionn%C3%A9+par+le+Cloud+Native+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=benjaminmanem&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
@@ -14,13 +14,14 @@
 
 ```typescript
 const benjamin = {
-  location: "France 🇫🇷",
-  currentFocus: "Développement Full Stack",
-  funFact: "Je debug mieux avec un café ☕",
+  currentRole: "Ingénieur Cloud DevOps @ Orange",
+  education: "Ingénieur Réseau & Info @ ENSEIRB-MATMECA",
+  location: "Bordeaux, France 🇫🇷",
 
-  askMeAbout: ["React", "TypeScript", "Go", "DevOps"],
+  languages: ["Go", "C", "Python", "VueJS", "JavaScript", "HTML", "CSS"],
+  tools: ["Kubernetes", "Docker", "K3s", "K9s", "Git", "GitHub", "GitLab"],
 
-  dailyRoutine: ["Code", "Coffee", "Debug", "Repeat"],
+  funFact: " ",
 };
 ```
 
@@ -35,6 +36,7 @@ const benjamin = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend
@@ -51,14 +53,22 @@ const benjamin = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-6C63FF?style=for-the-badge&logo=gorm&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-6C63FF?style=for-the-badge&logo=gin&logoColor=white)
 
 ### 🔧 DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![K9s](https://img.shields.io/badge/K9s-2d00f7?style=for-the-badge&logo=k3s&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=azure&logoColor=white)
 
 </div>
 
@@ -94,7 +104,6 @@ const benjamin = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
 ![Snake animation](https://raw.githubusercontent.com/benjaminmanem/benjaminmanem/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -113,17 +122,8 @@ const benjamin = {
 
 ---
 
-<div align="center">
-  
-### 💡 Citation du jour
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
 </div>
-# profile
