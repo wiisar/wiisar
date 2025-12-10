@@ -102,6 +102,7 @@ const benjamin = {
 ## 🐍 Contribution Graph
 
 <div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/wiisar/wiisar/output/github-snake-dark.svg)
 
 </div>
