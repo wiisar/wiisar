@@ -93,7 +93,7 @@ const benjamin = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=wiisar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wiisar&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
