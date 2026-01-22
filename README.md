@@ -18,8 +18,8 @@ const benjamin = {
   education: "Ingénieur Réseau & Info @ ENSEIRB-MATMECA",
   location: "Bordeaux, France 🇫🇷",
 
-  languages: ["Go", "C", "Python", "VueJS", "JavaScript", "HTML", "CSS"],
-  tools: ["Kubernetes", "Docker", "K3s", "K9s", "Git", "GitHub", "GitLab"],
+  languages: ["Go", "C", "Python", "Java", "JavaScript", "VueJS", "HTML", "CSS"],
+  tools: ["Kubernetes", "Docker", "K3s", "K9s", "Ansible", "Git", "GitHub", "GitLab"],
 };
 ```
 
@@ -41,7 +41,6 @@ const benjamin = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -50,7 +49,6 @@ const benjamin = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-6C63FF?style=for-the-badge&logo=gorm&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-6C63FF?style=for-the-badge&logo=gin&logoColor=white)
@@ -108,7 +106,7 @@ const benjamin = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiisar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.manem@orange.fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
